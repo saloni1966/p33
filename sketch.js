@@ -21,7 +21,7 @@ function setup() {
   world= engine.world;
   
   //create a ground sprite
-Ground = createSprite(650,670)
+ground = createSprite(650,670)
 ground.addImage(gimg);
 ground.scale=3.2;
 ground.velocityX=-10;
