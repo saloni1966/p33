@@ -9,7 +9,7 @@ var maxSnow=100;
 
 function preload() {
 bg=loadImage("snow1.jpg");
-gimg = loadImage("ground.PNG");
+gimg = loadImage("ground.png");
 runnerImg=loadAnimation("sc1.png","sc2.png","sc3.png","sc4.png")
 }
 
